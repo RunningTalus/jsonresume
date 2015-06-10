@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Dave May",
+    "label": "Programmer",
+    "picture": "",
+    "email": "dave@davemay.org",
+    "phone": "(440) 308-7500",
+    "website": "http://www.davemay.org",
+    "summary": "A summary of Dave May...chasing down Mojave Greens",
+    "location": {
+      "address": "2375 E Tropicana Avenue",
+      "postalCode": "NV 89119",
+      "city": "Las Vegas",
+      "countryCode": "US",
+      "region": "Nevada"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "RunningTalus",
+      "url": "http://twitter.com/runningtalus"
+    }]
+  },
+  "work": [{
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is ..."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Junior",
+    "keywords": [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "jQuery",
+      "Backbone",
+      "node.js",
+      "express"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "",
+    "keywords": [
+      "",
+      ""
+    ]
+  }],
+  "references": [{
+    "name": "",
+    "reference": ""
+  }]
+}
